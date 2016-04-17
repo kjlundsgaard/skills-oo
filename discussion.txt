@@ -1,0 +1,29 @@
+1. What are the three main design advantages that object orientation can provide?
+
+Explain each concept.
+
+a. encapsulation: you have everything you need in one place
+b. abstraction: hiding unnecessary details
+c. polymorphism: flexibility of types without conditionals
+
+2. What is a class?
+
+A type of object that has it's own specific attributes or methods that you can define
+
+3. What is an instance attribute?
+
+An attribute that is directly on an instance
+
+4. What is a method?
+
+A function that is defined on a class or an instance
+
+5. What is an instance in object orientation?
+
+A particular object created under a class that has its own identity and can have its own instance attributes
+
+6. How is a class attribute different than an instance attribute? Give an example of when you might use each.
+
+A class attribute is an attribute defined on a class, so it would apply to all instances of the class unless defined otherwise by the instance. An instance attribute is specific to the instance itself and does not necessarily apply to other instances of the class.
+
+E.g. If I had a class of bikes, a class attribute might be has_handlebars = True, but the instance attribute might be bike_color = "black"
